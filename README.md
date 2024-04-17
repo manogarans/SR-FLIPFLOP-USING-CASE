@@ -42,7 +42,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 5.For different input combinations generate the timing diagram.
 
-**PROGRAM**
+## PROGRAM :
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 ### Developed by: MANOGARAN S 
@@ -71,11 +71,11 @@ endmodule
 
 ```
 
-## RTL LOGIC FOR FLIPFLOPS**
+## RTL LOGIC FOR FLIPFLOPS
 ![Screenshot 2024-04-17 134034](https://github.com/manogarans/SR-FLIPFLOP-USING-CASE/assets/139331782/0cbbbfdb-cbfb-4b71-ab7a-d78c71d724d1)
 
 
-## TIMING DIGRAMS FOR FLIP FLOPS**
+## TIMING DIGRAMS FOR FLIP FLOPS
 ![Screenshot 2024-04-17 133926](https://github.com/manogarans/SR-FLIPFLOP-USING-CASE/assets/139331782/f9964584-0aca-4be8-bc5b-0ac87f475ffb)
 
 ## RESULTS :
